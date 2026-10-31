@@ -1,0 +1,25 @@
+function                                 true   language-server          graphify       name-search
+uppercaseFirstLetter                       11           7/11 +0           6/11 +0          11/11 +7
+encodeSemanticTokensDto                    10           7/10 +0           6/10 +0          10/10 +1
+computeRange                                3            3/3 +0            1/3 +0            3/3 +3
+getRegisteredLanguageModels                10           5/10 +0           9/10 +0          10/10 +0
+asClassNameArray                          268        268/268 +0          3/268 +0        268/268 +5
+createChatUriError                         14          11/14 +0           4/14 +0          14/14 +0
+getModelContextWindowTotal                 10           5/10 +0           9/10 +1          10/10 +0
+languageStatus                             14          14/14 +0           0/14 +0         14/14 +30
+renderChangesSummaryFileList               12           7/12 +2           7/12 +0          10/12 +2
+hasClientPluginMcpDefaultCwds               5            4/5 +0            2/5 +2            5/5 +2
+notEqualsTo                               134        134/134 +0          0/134 +0        134/134 +0
+buildOpenSessionLinkForChat                24          17/24 +0          12/24 +0          24/24 +3
+vUnknown                                    8            4/8 +0            5/8 +0            8/8 +0
+derivedWithSetter                          12           4/12 +0           3/12 +4           5/12 +8
+getElementHeight                            1            1/1 +0            1/1 +0            1/1 +6
+getClaimsFromJWT                           15          11/15 +0           7/15 +1          15/15 +6
+supportsAgentHostCreateSessionImport        4            3/4 +1            1/4 +4            4/4 +5
+resolveAgentHostCustomizations              7            4/7 +0            4/7 +2            7/7 +1
+isAuthorizationTokenResponse               17          12/17 +0           9/17 +1          17/17 +1
+parsePartialToolInput                       9            5/9 +0            8/9 +0            9/9 +0
+
+language-server  lines 526/588 (89%) near 533/588 (91%) +3 extra | files 248/253 (98%) +1 extra | fns fully covered (files) 16/20 | no node 0
+graphify         lines 97/588 (16%) near 104/588 (18%) +15 extra | files 64/253 (25%) +2 extra | fns fully covered (files) 11/20 | no node 0
+name-search      lines 579/588 (98%) near 586/588 (100%) +80 extra | files 252/253 (100%) +36 extra | fns fully covered (files) 19/20 | no node 0

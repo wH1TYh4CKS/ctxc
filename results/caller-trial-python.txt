@@ -1,0 +1,24 @@
+function                                 true   language-server          graphify       name-search
+get_method                                 18          18/18 +0           3/18 +0         18/18 +16
+create_source_list                          5            5/5 +7            4/5 +7            5/5 +8
+map_actuals_to_formals                     15          15/15 +6          14/15 +6          15/15 +8
+add_stats                                  27          27/27 +8          13/27 +7          27/27 +8
+has_any_from_unimported_type               11          11/11 +6           9/11 +6          11/11 +6
+cleanup                                     4            4/4 +1            4/4 +1           4/4 +22
+dedent                                      2            2/2 +0            1/2 +2           2/2 +18
+param_spec                                 16          16/16 +0           4/16 +0         16/16 +24
+zipall                                      4            4/4 +0            1/4 +0            4/4 +0
+with_normalized_var_args                   12          12/12 +0           0/12 +0          12/12 +0
+parse_mypy_comments                         3            3/3 +3            3/3 +3            3/3 +3
+remove_optional                             6            6/6 +3            4/6 +3            6/6 +3
+formal_arguments                            5            5/5 +0            0/5 +0            5/5 +0
+get_member_expr_fullname                    7            7/7 +3            6/7 +3            7/7 +3
+unnamed_function                            6            6/6 +4            5/6 +4            6/6 +4
+suggest                                     1            1/1 +0            1/1 +0            1/1 +6
+use_fine_grained_cache                      8            8/8 +0            4/8 +0            8/8 +6
+is_package_init_file                        5            5/5 +1            2/5 +0            5/5 +4
+is_named_instance                          32          32/32 +7          18/32 +7          32/32 +7
+
+language-server  lines 187/187 (100%) near 187/187 (100%) +49 extra | files 82/82 (100%) +3 extra | fns fully covered (files) 19/19 | no node 0
+graphify         lines 96/187 (51%) near 102/187 (55%) +49 extra | files 55/82 (67%) +4 extra | fns fully covered (files) 9/19 | no node 0
+name-search      lines 187/187 (100%) near 187/187 (100%) +146 extra | files 82/82 (100%) +31 extra | fns fully covered (files) 19/19 | no node 0
